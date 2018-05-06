@@ -1,0 +1,16 @@
+{
+  "name": "stylelint-config-preshape",
+  "version": "1.0.0",
+  "description": "A set of StyleLint rules for my projects.",
+  "main": "stylelintrc.json",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HHogg/eslint-config-preshape"
+  },
+  "author": "Harry Hogg <harry@hogg.io>",
+  "peerDependencies": {
+    "stylelint": "^9.2.0",
+    "stylelint-order": "^0.8.1"
+  }
+}
