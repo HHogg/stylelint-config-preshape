@@ -1,6 +1,6 @@
 {
   "name": "stylelint-config-preshape",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "A set of StyleLint rules for my projects.",
   "main": "stylelintrc.json",
   "license": "MIT",
@@ -10,7 +10,10 @@
   },
   "author": "Harry Hogg <harry@hogg.io>",
   "peerDependencies": {
-    "stylelint": "^9.2.0",
-    "stylelint-order": "^0.8.1"
+    "stylelint": "^13.2.0"
+  },
+  "dependencies": {
+    "stylelint-config-standard": "^20.0.0",
+    "stylelint-order": "^4.0.0"
   }
 }
